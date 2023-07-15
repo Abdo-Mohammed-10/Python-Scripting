@@ -2,7 +2,6 @@
 # coding: utf-8
 
 
-
 import time 
 epc=time.time()
 print(epc)
